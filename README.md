@@ -1,6 +1,6 @@
 # Repositorio de cursos de programación con ejemplos y prácticas
 
-Este repositorio contiene una serie de cursos de programación junto con ejemplos y prácticas para cada uno de ellos. Los cursos están diseñados para ser accesibles para todos los niveles de habilidad, desde principiantes hasta programadores experimentados. Estos cursos son tomados por mi persona como ruta de aprendizaje.
+Este repositorio contiene una serie de cursos de programación junto con ejemplos y prácticas para cada uno de ellos. Los cursos están diseñados para ser accesibles para todos los niveles de habilidad, desde principiantes hasta programadores experimentados. Estos cursos son tomados por mi persona como ruta de aprendizaje. En resumen este repositorio es un espacio donde almaceno mis cursos de programación o temas relacionado. No es un proyecto serio ni tiene un propósito específico, es solo un lugar para aprender.
 
 > Este README.md se estará actualizando
 
